@@ -20,15 +20,18 @@ public class GradingSwitch {
 	case 7:
 		grade = "C";
 		break;
-		case 6:
-			grade = "D";
-			break;
-		default:
-			grade = "F";
+	case 6:
+		grade = "D";
+		break;
+	default:
+		grade = "F";
 	}
+	
 	System.out.println("학점은" + grade + "입니다");	
 	
 	scanner.close();
 	
 	}
 }
+
+
