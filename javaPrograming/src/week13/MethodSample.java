@@ -17,7 +17,7 @@ public class MethodSample {
 		return String.valueOf (i + j);          
 	}
 	public static void main(String[] args) {
-		
+		//good
 		MethodSample a = new MethodSample();
 		
 		int i = a.getSum(1, 2);

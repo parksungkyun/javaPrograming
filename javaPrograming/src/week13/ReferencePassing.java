@@ -7,7 +7,7 @@ class Circles {
 	}
 
 }
-
+//good
 public class ReferencePassing {
 
 	static void increase(Circles m) {

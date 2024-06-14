@@ -19,7 +19,7 @@ public class CircleArray {
 		for(int i =0; i<c.length; i++) {
 			System.out.print((int)(c[i].getArea()) +" ");
 		}
-		
+		//good
 	}
 
 }
